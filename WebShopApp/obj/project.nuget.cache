@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q4YbExqOCS8=",
+  "dgSpecHash": "eULkgaWOQDk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Immanuel Kant 2\\Desktop\\Workshop\\05.WebShopApp\\WebShopApp\\WebShopApp.csproj",
+  "projectFilePath": "C:\\Users\\Immanuel Kant 2\\Desktop\\Workshop\\07.WebShopApp\\WebShopApp\\WebShopApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Immanuel Kant 2\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Immanuel Kant 2\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
